@@ -1,0 +1,191 @@
+body {
+    padding: 0%;
+    margin:0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Lucida Sans', Arial, sans-serif;
+    background: url('image/lovatnet-lake-beautiful-nature-norway_rv-0czoz4l_thumbnail-full01.png');
+    background-repeat: no-repeat;
+
+    }
+
+.header {
+    position: absolute;
+    width: 100%;
+    height: 83px;
+    left: 0px;
+    top: 0px;
+    background: #1749A5;
+}
+
+.cloud {
+    position: absolute;
+    width: 140.67px;
+    height: 142.89px;
+    left: 1227px;
+    top: 45px;
+}
+
+.settings {
+    position: absolute;
+    width: 32px;
+    height: 40px;
+    left: 1418px;
+    top: 22px;
+}
+
+input {
+    position: absolute;
+    width: 286px;
+    height: 39px;
+    left: 677px;
+    top: 22px;
+    border: none;
+    background: #3375EE;
+    border-radius: 5px;
+}
+button {
+
+    height: 39px;
+    position: absolute;
+    left:610px;
+    top: 22px;
+    border: none;
+    background: #3375EE;
+    border-radius: 5px;
+
+}
+
+.search-icon {
+    position: absolute;
+    left: 43.50%;
+    right: 56.74%;
+    top: 39%;
+    color: #E5E5E5;
+    opacity: 0.8;
+}
+
+::placeholder  {
+    width: 72px;
+    height: 14px;
+    left: 683px;
+    top: 34px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    opacity: 0.7;
+}
+
+
+.first-layer {
+    position: absolute;
+    width: 90%;
+    height: 416px;
+    left: 80px;
+    top: 83px;
+    background: rgba(28, 105, 245, 0.41);
+    }
+
+.display {
+    position: absolute;
+    width: 442px;
+    height: 323px;
+    left: 131px;
+    top: 45px;
+    background: rgba(5, 122, 151, 0.74);
+}
+
+.time {
+    position: absolute;
+    width: 250px;
+    height: 29px;
+    left: 50px;
+    top: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+
+    color: rgba(255, 255, 255, 0.8);
+    opacity: 0.7;
+}
+
+.degree {
+    position: absolute;
+    width: 178px;
+    height: 157px;
+    left: 50px;
+    top: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 203px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.status {
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    left: 50px;
+    top: 200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+.prediction {
+    position: absolute;
+    width: 100%;
+    height: 29px;
+    left: 50px;
+    top: 250px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+
+}
+
+.tint {
+    position: absolute;
+    width: 100%;
+    height: 54px;
+    left: 1242px;
+    top: 250px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.bg-img {
+    position: absolute;
+    width: 100%;
+    height: 943px;
+    left: 0px;
+    top: 75px;
+  }
+  
